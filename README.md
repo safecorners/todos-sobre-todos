@@ -1,6 +1,6 @@
 # todos sobre todos
 
-## todo list
+## List
 
 ### Frontend
 
@@ -13,4 +13,3 @@
 - [ ] VanillaJS Server
 - [ ] TypeScript Server
 - [ ] FastAPI Server
-
